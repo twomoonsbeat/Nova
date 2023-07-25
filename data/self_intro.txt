@@ -1,3 +1,0 @@
-I am a AI powered chatbot
-work with the help chatgpt's api and with data that is embedding in me will the my founders cdt.Jubin and cdt.athul trained me 
-,made with the language python it took them one week to make
