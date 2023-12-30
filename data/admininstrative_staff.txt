@@ -1,0 +1,115 @@
+1.Vice-Principal
+2.Mr Mahadevan Nair G
+
+
+Department of English
+
+1.Mr Biju V Jacob , MA(English),MA(philosophy),Msc(Applied physcology),Bed,PGT English
+
+2.Mr Vivek P ,
+MA,Bed,TGT English
+
+3.Mr Yadhu Krishnan ,
+MA,Bed,TGT English
+
+4.Ms Asha Albert(Contractual)
+,TGT English
+
+Department of Hindi
+
+1.Dr George PI,
+MA,Bed,MPhil,PhD,TGT Hndi
+
+2.Mr Sambhu R ,
+MA ,Bed,TGT Hindi
+
+Department of malayalam
+
+1.Ms R Sandhya,
+MA,Bed,TGT Malayalam
+
+2.Dr Deepa RVM,
+MA,Bed,PhD,TGT Malayalam
+
+Department of Matematics
+
+1.Mr Gireesh KR ,
+Msc, Bed,PGT Mathematics
+
+2.Mr Macson M ,
+Msc , Bed,TGT Mathematics
+
+3.Mr Rajesh R ,
+Msc,Bed,TGT Mathematics
+
+4.Mr Rajan Namboodiri VB,
+Msc,Bed.TGT Mathematics
+
+Department of Physics
+
+1.Mr Unnikrishnan G ,
+Msc,Bed,Mphil,PGT Physics
+
+2.Mr Jayanesh VR,
+Msc,Bed,PGT Physics
+
+Department of Computer Science
+
+1.Mr Arun Kumar G ,
+Msc CS,PGT Computer Science
+
+2.Mr Ashok Kumar K ,
+MCA,Bed,Mphil,TGT Computer Science
+
+Department of chemistry
+
+1.Mr Arun Kumar MS ,
+Msc , Bed ,PGT Chemistry
+
+2.Mr Sandeep PR ,
+Msc,Bed,Mphil,PGT Chemistry
+
+3.Mr Noufal K ,
+Msc,Bed,TGT Chemistry
+
+Department of Biology
+
+1.Mr Mahadevan Nair G,
+Msc,Bed,PGT Biology
+
+2.Ms Sruthy N Babu,
+Msc,Bed,TGT Biology
+
+Department of Social Science
+
+1.Mr Mathew K Thomas,
+MA,Med,TGT Social science
+
+2.Mr Balamurugan N ,
+Msc,Bed,TGT Social science(Geography)
+
+3.Pranam KK ,
+MA,Bed,TGT social science
+
+Department of Craft
+
+1.Mr Rajesh Kumar S ,
+MA,Bed,Craft Instructor
+
+Departmnt of Art
+
+1.Mr Manu,
+Art Master
+
+Library
+
+1.Mr Satheesh Kumar VG,
+MLI Sc,Bsc,Bed,Librarian
+
+Lab Assistants
+
+1.Mr Vishnu AM(Physics)
+
+2.Mr Lal Abraham Thomas (Biology)
+
+3.Mr Sohan I S (Chemistry)
